@@ -16,7 +16,7 @@ const Home = () => {
             <HomeHeader/>
             <HomeHeroSection/>
             <HomeAboutArea/>
-            <HomeServices/>
+            {/*<HomeServices/>*/}
             <HomeOurTeam/>
             <HomeFact/>
             <HomePricing/>

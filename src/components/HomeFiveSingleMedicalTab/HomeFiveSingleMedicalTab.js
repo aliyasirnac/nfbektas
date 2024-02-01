@@ -5,8 +5,8 @@ const HomeFiveSingleMedicalTab = () => {
       <>
          <div className="row">
             <div className="col-lg-6">
-               <div className="h5medical__thumb mb-30">
-                  <img src="img/home5/tab/tab.jpg" alt="" />
+               <div className="h5medical__thumb  mb-30">
+                  <img src="/therapy.jpeg" alt="" />
                </div>
             </div>
             <div className="col-lg-6">

@@ -13,8 +13,8 @@ const HomeFourBlogs = () => {
                            <img className="section-back-icon" src="img/section/section-back-icon.png" alt=""/>
                         </div>
                         <div className="section-text pos-rel">
-                           <h5>News</h5>
-                           <h1>Get Every Single Updates Here.</h1>
+                           <h5>Bloglar</h5>
+                           <h1>Yeni yazıları oku!</h1>
                         </div>
                         <div className="section-line pos-rel">
                            <img src="img/shape/section-title-line.png" alt=""/>
